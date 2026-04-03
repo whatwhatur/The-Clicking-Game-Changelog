@@ -8,10 +8,9 @@ All updates and fixes for "The Clicking Game" on Roblox are documented here.
 ### Added
 - **Core Mechanics:** Added the first 3 minutes of clicking gameplay.
 - **Badges:** Added the "Pioneer" badge for early supporters.
-- **Notice:** Added transparency notice to the game description.
+- **Notice:** Added data wipe notice to the game description.
 
 ### Fixed
-- Fixed a bug where clicks weren't registering after a reset.
 - Optimized DataStore to prepare for future updates.
 
 ---
