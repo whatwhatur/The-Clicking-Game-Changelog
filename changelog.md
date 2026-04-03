@@ -4,7 +4,15 @@ All updates and fixes for "The Clicking Game" on Roblox are documented here.
 
 ---
 
-## [INDEV 1] - 2026-04-03
+## [INDEV 1.1] - 2026-04-03
+### Added
+- **More Gameplay:** Added multiple milestones.
+- **Code cleaning:** Organized and cleaned the code for less lag.
+
+### Fixed
+- Made data saving ACTUALLY save.
+
+## [INDEV 1] - 2026-04-02
 ### Added
 - **Core Mechanics:** Added the first 3 minutes of clicking gameplay.
 - **Badges:** Added the "Pioneer" badge for early supporters.
