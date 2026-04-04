@@ -7,6 +7,7 @@ All updates and fixes for "The Clicking Game" on Roblox are documented here.
 ## [INDEV 2.0] - 2026-04-04
 ### Added
 - **More Gameplay:** Added Upgrade Board at 25K Clicks.
+- **Player Visibility:** Made other players visible.
 
 ### Removed
 - **Resetting:** You can no longer reset your character, to prevent bugs
