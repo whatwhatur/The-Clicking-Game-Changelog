@@ -6,7 +6,7 @@ All updates and fixes for "The Clicking Game" on Roblox are documented here.
 
 ## 2026-05-04
 
-### Idea for next update
+- **Got ideas for the next update.**
 
 ## [INDEV 2.0] - 2026-04-04
 ### Added
