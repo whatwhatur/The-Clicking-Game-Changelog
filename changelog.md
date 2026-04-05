@@ -21,7 +21,7 @@ All updates and fixes for "The Clicking Game" on Roblox are documented here.
 - **Code Cleaning:** Organized and cleaned the code for less lag.
 
 ### Fixed
-- Made data saving ACTUALLY save.
+- **Data:** Made data saving ACTUALLY save.
 
 ## [INDEV 1] - 2026-04-02
 ### Added
@@ -35,5 +35,5 @@ All updates and fixes for "The Clicking Game" on Roblox are documented here.
 ---
 
 ## [PRE-RELEASE] - 2026-04-02
-- Internal testing started.
-- Basic UI layout designed.
+- Game idea
+- Very basic systems
