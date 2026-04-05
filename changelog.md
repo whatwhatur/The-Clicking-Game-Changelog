@@ -30,7 +30,7 @@ All updates and fixes for "The Clicking Game" on Roblox are documented here.
 - **Notice:** Added data wipe notice to the game description.
 
 ### Fixed
-- Optimized DataStore to prepare for future updates.
+- **DataStore:** Optimized DataStore to prepare for future updates.
 
 ---
 
